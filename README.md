@@ -3,15 +3,19 @@
 Projeto desenvolvido em Java para gerenciamento de funcionários.
 
 ## Funcionalidades
-- Cadastro de funcionários
-- Remoção
+- Inserção de funcionários
+- Remoção de funcionário
 - Aumento salarial
 - Agrupamento por função
-- Ordenação
-- Cálculos
+- Ordenação alfabética
+- Cálculo de salários
 
-## Tecnologias
+## Tecnologias utilizadas
 - Java
 - Collections
 - Streams
 - BigDecimal
+
+## Como executar
+1. Clonar o repositório
+2. Executar a classe Principal
