@@ -1,6 +1,6 @@
 # Teste Prático - Inflex
-
-Projeto desenvolvido em Java para gerenciamento de funcionários.
+## 📌 Sobre o projeto
+Projeto desenvolvido como teste técnico para vaga de desenvolvedor, com foco em manipulação de dados, lógica de programação e boas práticas em Java.
 
 ## Funcionalidades
 - Inserção de funcionários
